@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2948532835
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ece27a5e3d0fb80646b39daef4310195
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f19fbf085e00d23fbc8d6cf7b345590b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/Content/Items/equipment/glasses_6B34/glasses_6B34_glass_d.tga
+- Assets/Content/Items/equipment/glasses_6B34/glasses_6B34_glass_g.tga
+Dependencies: []
